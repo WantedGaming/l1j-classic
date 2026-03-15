@@ -1,0 +1,22 @@
+# Build output
+build/
+l1jen.jar
+
+# Logs
+log/
+
+# IDE
+.classpath
+.project
+.settings/
+*.iml
+.idea/
+.vscode/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Emblems (runtime generated)
+emblem/
