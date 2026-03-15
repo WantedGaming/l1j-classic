@@ -119,8 +119,8 @@ public class GameServer extends Thread {
 
 		System.out.println();
 		System.out.println("\u001B[90m============================================\u001B[0m");
-		System.out.println("\u001B[1;33m      Wanted Gaming Classic Server\u001B[0m");
-		System.out.println("\u001B[36m      Tikal and Antharas Update\u001B[0m");
+		System.out.println("\u001B[1;33m         Remaster Classic\u001B[0m");
+		System.out.println("\u001B[36m             Elf Reboot\u001B[0m");
 		System.out.println("\u001B[90m============================================\u001B[0m");
 		System.out.println();
 		System.out.println("\u001B[36m  _     _ ___        ___");
