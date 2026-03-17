@@ -618,7 +618,7 @@ public final class Config {
 			GAME_SERVER_PORT = Integer.parseInt(serverSettings.getProperty(
 					"GameserverPort", "2000"));
 			DB_DRIVER = serverSettings.getProperty("Driver",
-					"com.mysql.jdbc.Driver");
+					"com.mysql.cj.jdbc.Driver");
 			DB_URL = System.getenv().getOrDefault("DB_URL", 
 					serverSettings.getProperty("URL", 
 					"jdbc:mysql://localhost:3306/l1jdb?useUnicode=True&characterEncoding=UTF-8"));
